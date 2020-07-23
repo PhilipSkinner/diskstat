@@ -56,3 +56,11 @@ diskstats.check('.').then((results) => {
 	console.log(err);
 })
 ```
+
+Contributors
+------------
+
+The following people have contributed to this library:
+
+* Philip Skinner
+* Alessio (d3lla) - https://hackerone.com/d3lla?type=user

@@ -1,6 +1,6 @@
 {
 	"name": "diskstats",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"description": "Get disk stats such as space used & inode usage, relies on df",
 	"main": "index.js",
 	"keywords": [
